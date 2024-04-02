@@ -1,7 +1,7 @@
 ```yaml
-frontend: HTML, CSS
+frontend: nothing
 
-backend: PHP
+backend: nothing
 
-learning: TypeScript
+learning (in order): HTML, CSS, TypeScript, Elixir
 ```
